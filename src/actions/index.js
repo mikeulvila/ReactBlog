@@ -1,5 +1,5 @@
 import axios from 'axios';
-import API_KEY from 'API_KEY';
+import API_KEY from './API_KEY';
 
 export const FETCH_POSTS = 'FETCH_POSTS';
 
