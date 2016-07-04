@@ -22,3 +22,4 @@ export function createPost(props) {
     payload: request
   };
 }
+
